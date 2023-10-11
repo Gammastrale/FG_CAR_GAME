@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Packed Assets
+  m_EditorClassIdentifier: 
+  m_GroupName: Packed Assets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d6365d7042ab7cc4b899690f192ea87c
+  m_SerializeEntries:
+  - m_GUID: a749bed27b29fd84c91334063742b7f9
+    m_Address: FirstMap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6deb0f0a2c06ae44293f2446919bf2f3
+    m_Address: SecondMap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7f41c392526385478596ca3ba6fd707
+    m_Address: StartingScreen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8e0b46bc5e7227459b887d071e05108
+    m_Address: PauseScript
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GameStart
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97c88285a8b39f444ace754df6bee39b
+    m_Address: Car1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GameStart
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e521ff62911c80d4cab6c7c7444fe3f9
+    m_Address: ThirdMap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d2fe229b713c0d143bc2dd8c00e535a1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 55a9a386b606aab43bb582bf5c4aeb18, type: 2}
+    - {fileID: 11400000, guid: 13d7c65cdcea9404d89c440c939e7f96, type: 2}
